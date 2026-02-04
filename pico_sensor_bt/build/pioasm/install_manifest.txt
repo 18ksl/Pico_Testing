@@ -1,0 +1,5 @@
+/home/mithril/pico/pico_sensor_bt/build/pioasm-install/pioasm/pioasm
+/home/mithril/pico/pico_sensor_bt/build/pioasm-install/pioasm/pioasmTargets.cmake
+/home/mithril/pico/pico_sensor_bt/build/pioasm-install/pioasm/pioasmTargets-release.cmake
+/home/mithril/pico/pico_sensor_bt/build/pioasm-install/pioasm/pioasmConfig.cmake
+/home/mithril/pico/pico_sensor_bt/build/pioasm-install/pioasm/pioasmConfigVersion.cmake

@@ -1,0 +1,6 @@
+/home/mithril/pico/my_project/build/_deps/picotool/picotool
+/home/mithril/pico/my_project/build/_deps/picotool/picotoolTargets.cmake
+/home/mithril/pico/my_project/build/_deps/picotool/picotoolTargets-release.cmake
+/home/mithril/pico/my_project/build/_deps/picotool/picotoolConfig.cmake
+/home/mithril/pico/my_project/build/_deps/picotool/picotoolConfigVersion.cmake
+/home/mithril/pico/my_project/build/_deps/picotool/enc_bootloader.elf

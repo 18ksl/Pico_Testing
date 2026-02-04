@@ -1,0 +1,13 @@
+# Target labels
+ pioasmBuild
+# Source files and their labels
+/home/mithril/pico/my_project/build/pico-sdk/src/rp2_common/pico_status_led/CMakeFiles/pioasmBuild
+/home/mithril/pico/my_project/build/pico-sdk/src/rp2_common/pico_status_led/CMakeFiles/pioasmBuild.rule
+/home/mithril/pico/my_project/build/pico-sdk/src/rp2_common/pico_status_led/CMakeFiles/pioasmBuild-complete.rule
+/home/mithril/pico/my_project/build/pico-sdk/src/rp2_common/pico_status_led/pioasm/src/pioasmBuild-stamp/pioasmBuild-build.rule
+/home/mithril/pico/my_project/build/pico-sdk/src/rp2_common/pico_status_led/pioasm/src/pioasmBuild-stamp/pioasmBuild-configure.rule
+/home/mithril/pico/my_project/build/pico-sdk/src/rp2_common/pico_status_led/pioasm/src/pioasmBuild-stamp/pioasmBuild-download.rule
+/home/mithril/pico/my_project/build/pico-sdk/src/rp2_common/pico_status_led/pioasm/src/pioasmBuild-stamp/pioasmBuild-install.rule
+/home/mithril/pico/my_project/build/pico-sdk/src/rp2_common/pico_status_led/pioasm/src/pioasmBuild-stamp/pioasmBuild-mkdir.rule
+/home/mithril/pico/my_project/build/pico-sdk/src/rp2_common/pico_status_led/pioasm/src/pioasmBuild-stamp/pioasmBuild-patch.rule
+/home/mithril/pico/my_project/build/pico-sdk/src/rp2_common/pico_status_led/pioasm/src/pioasmBuild-stamp/pioasmBuild-update.rule

@@ -1,0 +1,7 @@
+/home/mithril/pico/pico_sensor_bt/build/pioasm/CMakeFiles/pioasm.dir
+/home/mithril/pico/pico_sensor_bt/build/pioasm/CMakeFiles/edit_cache.dir
+/home/mithril/pico/pico_sensor_bt/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/mithril/pico/pico_sensor_bt/build/pioasm/CMakeFiles/list_install_components.dir
+/home/mithril/pico/pico_sensor_bt/build/pioasm/CMakeFiles/install.dir
+/home/mithril/pico/pico_sensor_bt/build/pioasm/CMakeFiles/install/local.dir
+/home/mithril/pico/pico_sensor_bt/build/pioasm/CMakeFiles/install/strip.dir
