@@ -1,0 +1,4 @@
+[submodules "pico-examples"]
+	url = https://github.com/raspberrypi/pico-examples.git
+[submodules "pico-extras"]
+	url = https://github.com/raspberrypi/pico-extras.git
